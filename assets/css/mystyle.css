@@ -1,0 +1,4 @@
+.container:hover {
+    background-color: lightblue; /* Cambia el color de fondo al pasar el mouse */
+    transition: background-color 0.3s ease;
+  }
